@@ -1,5 +1,3 @@
-%% Marina Kokotov, 305891350
-%% Lior Deutsch, 200700987
 function ChanVese_Sobolev
 	close all;
 	
